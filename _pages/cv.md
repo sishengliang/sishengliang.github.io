@@ -11,37 +11,42 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Automation, Northeastern University (China), 2008
+* M.S. in Control Theory & Control Engineering, Tongji University, 2011
+* Ph.D in Computer Science, Clemson University, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2021-Fall 2023: Research Assistant
+  * Clemson University
+  <!-- * Duties included: Rowhammer detection, side-channel through mmWave sensing, EM side-channel  -->
+  <!-- * Supervisor: Dr. Zhenkai Zhang -->
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2020-Summer 2021: Teaching Assistant
+  * Texas Tech University
+  <!-- * Duties included: Instructing a Lab, TA of Classes -->
+  <!-- * Supervisor: Dr. Zhenkai Zhang -->
+
+* Fall 2018-Fall 2019: Research Assistant
+  * Texas Tech University
+
+* Fall 2012  : Intern
+  * United Technologies Research Center (UTRC), East Hartford, USA 
+
+* 2011 - 2012 : Electric Vehicle Propulsion System Engineer
+  * Shanghai Automotive Industry Corporation, Shanghai 
+
+    
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C/C++
+* Python
+* VHDL
+* PCB layout 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+<!-- 
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -52,8 +57,9 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* PC member of The 5th IEEE International Workshop on Deep Analysis of Data-Driven Applications 2023
+
