@@ -1,4 +1,4 @@
 ---
-* Yang, Zhou, et al. "Not All Areas Are Equal: Detecting Thoracic Disease With ChestWNet." 2020 IEEE International Conference on Big Data (Big Data). IEEE, 2020.
+* Yang, Zhou, Zhenhe Pan, Sisheng Liang, and Fang Jin. "Not All Areas Are Equal: Detecting Thoracic Disease With ChestWNet." In 2020 IEEE International Conference on Big Data (Big Data), pp. 3447-3452. IEEE, 2020.
 
 
