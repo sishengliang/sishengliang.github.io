@@ -13,7 +13,8 @@ Education
 ======
 * B.S. in Automation, Northeastern University (China), 2008
 * M.S. in Control Theory & Control Engineering, Tongji University, 2011
-* Ph.D in Computer Science, Clemson University, 2024 (expected)
+* M.S. in Electrical and Computer Engineering, Texas Tech University, 2018
+* Ph.D in Computer Science, Clemson University, 2024
 
 Work experience
 ======
@@ -43,7 +44,10 @@ Skills
 ======
 * C/C++
 * Python
+* Pytorch
+* Assembly
 * VHDL
+* Matlab
 * PCB layout 
 
 <!-- 
