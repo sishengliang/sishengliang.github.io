@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Automation, Northeastern University (China), 2008
 * M.S. in Control Theory & Control Engineering, Tongji University, 2011
-* M.S. in Electrical and Computer Engineering, Texas Tech University, 2018
+* M.S. in Electrical  Engineering, Texas Tech University, 2018
 * Ph.D in Computer Science, Clemson University, 2024
 
 Work experience
@@ -34,7 +34,7 @@ Work experience
 * Fall 2012  : Intern
   * United Technologies Research Center (UTRC), East Hartford, USA 
 
-* 2011 - 2012 : Electric Vehicle Propulsion System Engineer
+* 2011 - 2012 : Electric Vehicle Propulsion System Design Engineer
   * Shanghai Automotive Industry Corporation, Shanghai 
 
     
