@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Automation, Northeastern University (China), 2008
-* M.S. in Control Theory & Control Engineering, Tongji University, 2011
-* M.S. in Electrical  Engineering, Texas Tech University, 2018
 * Ph.D in Computer Science, Clemson University, 2024
+* M.S. in Electrical  Engineering, Texas Tech University, 2018
+* M.S. in Control Theory & Control Engineering, Tongji University, 2011
+* B.S. in Automation, Northeastern University (China), 2008
 
 Work experience
 ======
