@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Clemson University, 2024
-* M.S. in Electrical  Engineering, Texas Tech University, 2018
-* M.S. in Control Theory & Control Engineering, Tongji University, 2011
-* B.S. in Automation, Northeastern University (China), 2008
+* Ph.D in Computer Science, Clemson University, (expected 2024)
+* M.S. in Electrical  Engineering, Texas Tech University
+* M.S. in Control Theory & Control Engineering, Tongji University
+* B.S. in Automation, Northeastern University (China)
 
 Work experience
 ======
@@ -31,10 +31,10 @@ Work experience
 * Fall 2018-Fall 2019: Research Assistant
   * Texas Tech University
 
-* Fall 2012  : Intern
+* Fall 2012  : Intern (Full time)
   * United Technologies Research Center (UTRC), East Hartford, USA 
 
-* 2011 - 2012 : Electric Vehicle Propulsion System Design Engineer
+* 2011 - 2012 : Electric Vehicle Propulsion System Design Engineer (Full time)
   * Shanghai Automotive Industry Corporation, Shanghai 
 
     
@@ -44,11 +44,9 @@ Skills
 ======
 * C/C++
 * Python
-* Pytorch
 * Assembly
 * VHDL
-* Matlab
-* PCB layout 
+
 
 <!-- 
 Talks
