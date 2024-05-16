@@ -1,5 +1,7 @@
 ---
-* Mohammed Aldeen, <strong>Liang, Sisheng</strong>, Zhenkai Zhang, Linke Guo, and Long Cheng. "A Defense Against EM Side-Channel Attacks on Website Fingerprinting" accepted by IEEE Secure Development Conference (SecDev) 2023 Poster.
+* Mohammed Aldeen, <strong>Sisheng Liang</strong>, Zhenkai Zhang, Linke Guo, Zheng Song, Long Cheng. ”EMMasker: EM Obfuscation
+Against Website Fingerprinting”, In Workshop on Measurements, Attacks, and Defenses for the Web (MADWeb), 2024.(*Dis-
+tinguished Paper Runner-up Award)
 
 
 
