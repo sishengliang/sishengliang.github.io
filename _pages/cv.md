@@ -11,25 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Clemson University, (expected 2024)
+* Ph.D in Computer Science, Clemson University
 * M.S. in Electrical  Engineering, Texas Tech University
 * M.S. in Control Theory & Control Engineering, Tongji University
 * B.S. in Automation, Northeastern University (China)
 
 Work experience
 ======
+
+* Fall 2024-Now: Assistant Professor 
+  * Department of Computer Science, Central Michigan University
+
 * Fall 2021-Fall 2023: Research Assistant
   * Clemson University
   <!-- * Duties included: Rowhammer detection, side-channel through mmWave sensing, EM side-channel  -->
   <!-- * Supervisor: Dr. Zhenkai Zhang -->
 
-* Spring 2020-Summer 2021: Teaching Assistant
-  * Texas Tech University
+<!-- * Spring 2020-Summer 2021: Teaching Assistant
+  * Texas Tech University -->
   <!-- * Duties included: Instructing a Lab, TA of Classes -->
   <!-- * Supervisor: Dr. Zhenkai Zhang -->
 
-* Fall 2018-Fall 2019: Research Assistant
-  * Texas Tech University
+<!-- * Fall 2018-Fall 2019: Research Assistant
+  * Texas Tech University -->
 
 * Fall 2012  : Intern (Full time)
   * United Technologies Research Center (UTRC), East Hartford, USA 

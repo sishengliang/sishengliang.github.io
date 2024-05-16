@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer science Ph.D. candidate at the School of Computing in Clemson University, specializing in the field of Cyber-security. My primary area of research is side-channel security, which I have a particular interest in. I am expected to graduate in May 2024.
+I will join the Computer Science Department at Central Michigan University as an Assistant Professor in Fall 2024. I earned my Ph.D. degree from the School of Computing at Clemson University under the supervision of Dr. Zhenkai Zhang. My primary area of research is side-channel security and hardware security, which I have a particular interest in.
+
