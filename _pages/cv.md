@@ -22,8 +22,8 @@ Work experience
 * Fall 2024-Now: Assistant Professor 
   * Department of Computer Science, Central Michigan University
 
-* Fall 2021-Fall 2023: Research Assistant
-  * Clemson University
+<!-- * Fall 2021-Fall 2023: Research Assistant
+  * Clemson University -->
   <!-- * Duties included: Rowhammer detection, side-channel through mmWave sensing, EM side-channel  -->
   <!-- * Supervisor: Dr. Zhenkai Zhang -->
 
