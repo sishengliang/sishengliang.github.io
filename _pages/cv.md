@@ -35,11 +35,11 @@ Work experience
 <!-- * Fall 2018-Fall 2019: Research Assistant
   * Texas Tech University -->
 
-* Fall 2012  : Intern (Full time)
+<!-- * Fall 2012  : Intern (Full time)
   * United Technologies Research Center (UTRC), East Hartford, USA 
 
 * 2011 - 2012 : Electric Vehicle Propulsion System Design Engineer (Full time)
-  * Shanghai Automotive Industry Corporation, Shanghai 
+  * Shanghai Automotive Industry Corporation, Shanghai  -->
 
     
 
