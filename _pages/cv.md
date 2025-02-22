@@ -43,13 +43,13 @@ Work experience
 
     
 
-  
+<!--   
 Skills
 ======
 * C/C++
 * Python
 * Assembly
-* VHDL
+* VHDL -->
 
 
 <!-- 
