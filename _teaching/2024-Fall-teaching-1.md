@@ -9,6 +9,6 @@ location: "Mount Pleasant, USA"
 --- -->
 
 * CPS 477  Security Informatics: AI and Visualization Fall 2024
-* CPS 475  Software, Database, and Operating System Security Spring 2025
+<!-- * CPS 475  Software, Database, and Operating System Security Spring 2025 -->
 ======
 
