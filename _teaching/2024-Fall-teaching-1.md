@@ -9,5 +9,4 @@ location: "Mount Pleasant, USA"
 ---
 * CPS 477  Security Informatics: AI and Visualization Fall 2024
 
-======
 
