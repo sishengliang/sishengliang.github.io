@@ -7,7 +7,7 @@ venue: "Central Michigan University, Department of Computer Science"
 date: 2025-01-13
 location: "Mount Pleasant, USA"
 ---
-* CPS 475  Software, Database, and Operating System Security Spring 2025
+* CPS 475  Software, Database, and Operating System Security, Spring 2025
 
 
 
