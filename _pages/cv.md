@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, Clemson University
-* M.S. in Electrical  Engineering, Texas Tech University
+* M.S. in Electrical & Computer Engineering, Texas Tech University
 * M.S. in Control Theory & Control Engineering, Tongji University
 * B.S. in Automation, Northeastern University (China)
 
