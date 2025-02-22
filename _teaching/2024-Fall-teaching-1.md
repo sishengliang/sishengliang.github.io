@@ -8,6 +8,6 @@ date: 2024-08-26
 location: "Mount Pleasant, USA"
 ---
 
-CPS 477  Security Informatics: AI and Visualization Fall 2024
+* CPS 477  Security Informatics: AI and Visualization Fall 2024
 ======
 
