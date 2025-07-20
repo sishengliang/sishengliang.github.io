@@ -65,7 +65,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* PC member of The 5th IEEE International Workshop on Deep Analysis of Data-Driven Applications 2023
+* PC member of The 5th IEEE International Workshop on Deep Analysis of Data-Driven Applications 2023 -->
 
